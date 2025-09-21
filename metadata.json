@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio (Nano Banana)",
+  "description": "Generate stunning images from text prompts using Google's Gemini API and share them on X. While inspired by 'nano banana', this app uses the Imagen model for optimal text-to-image generation.",
+  "requestFramePermissions": []
+}
